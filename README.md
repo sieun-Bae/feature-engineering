@@ -6,5 +6,9 @@ To-do
 <ul>scoring sentiment with various ways e.g. sentiwordnet, rating, the general inquirer, bing liu opinion lexicon, etc. </ul>
 <ul>group by Item's ID</ul>
 </p>
-ref) https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
+<p>
+<ul>evaluation metrics for the model should be chosen cautiously. maybe report f1 score, AUC, etc.</ul>
+</p>
+<ul>ref) https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews</ul>
+<ul> https://www.kaggle.com/burhanykiyakoglu/predicting-sentiment-from-clothing-reviews </ul>
 
